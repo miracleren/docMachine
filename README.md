@@ -32,3 +32,10 @@
 
         doc.save("D://print//docx//" + UUID.randomUUID() + ".docx");
 
+
+# word模板标签结构
+![image](https://github.com/docMachine/README/baseword.png)
+
+# 生成结果
+![image](https://github.com/docMachine/README/succesword.png)
+
