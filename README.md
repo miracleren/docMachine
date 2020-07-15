@@ -34,8 +34,8 @@
 
 
 # word模板标签结构
-![image](https://github.com/docMachine/README/baseword.png)
+![image](https://github.com/miracleren/docMachine/blob/master/README/baseword.png)
 
 # 生成结果
-![image](https://github.com/docMachine/README/succesword.png)
+![image](https://github.com/miracleren/docMachine/blob/master/README/succesword.png)
 
